@@ -9,7 +9,7 @@ def calcular_custo():
     
 #criando a GUI
 root = tk.Tk()
-root.geometry("400x200")
+root.geometry("300x100")
 root.title("Calc Custo por Palavra")
 
 #criando os widgets
